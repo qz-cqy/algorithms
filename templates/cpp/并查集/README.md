@@ -20,4 +20,4 @@ namespace bcg
 #endif
 ```
 
-[下载](/templates/cpp/并查集.cpp)
+[下载](/templates/cpp/并查集/并查集.cpp)
