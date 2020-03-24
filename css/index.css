@@ -25,5 +25,6 @@ div.tag {
   padding-top: 4px;
   padding-bottom: 4px;
   transition: all .15s;
+  color: white;
   background-color: #8e44ad;
 }
