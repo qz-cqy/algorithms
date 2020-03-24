@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 h1 {
-  color: #8e44ad;
+  color: blue;
 }
 p {
   font: "楷体";
@@ -17,4 +17,12 @@ a:link, a:visited {
 a:hover {
   border-color: gray;
   color: gray;
+}
+div.tag {
+	border-radius:50px !important;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:4px;
+	padding-bottom:4px;
+	transition:all .15s;
 }
