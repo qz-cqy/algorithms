@@ -1,10 +1,19 @@
 @charset "utf-8";
 * {
-	box-sizing: border-box;
+  box-sizing: border-box;
 }
 h1 {
   color=8e44ad;
 }
 p {
   font="宋体";
+}
+a {
+  display: block;
+  width: 90px;
+  padding: 10px 0px;
+  border-top: 1px solid #aadbf1;
+  color: darkblue;
+  text-align: center;
+  text-decoration: none;
 }
