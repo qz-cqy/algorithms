@@ -26,6 +26,9 @@ div.tag {
   padding-bottom: 4px;
   transition: all .15s;
   color: white;
+  min-width: 10px;
+  display: inline-block;
+  white-space: nowrap;
   background-color: #8e44ad;
 }
 div.am-badge:hover, div.tag span.lfe-caption:hover, div.difficulty span.lfe-caption:hover{,
