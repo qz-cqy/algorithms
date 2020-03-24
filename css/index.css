@@ -8,9 +8,13 @@ h1 {
 p {
   font: "楷体";
 }
-a {
+a:link, a:visited {
   border-style: solid;
   border-width: 1px;
-  border-color: red;
-  color: #33ff66;
+  border-color: transparent;
+  color: #33ff66
+}
+a:hover {
+  border-color: gray;
+  color: gray;
 }
