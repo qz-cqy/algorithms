@@ -3,17 +3,14 @@
   box-sizing: border-box;
 }
 h1 {
-  color=8e44ad;
+  color: "#8e44ad";
 }
 p {
-  font="宋体";
+  font: "宋体";
 }
 a {
-  display: block;
-  width: 90px;
-  padding: 10px 0px;
-  border-top: 1px solid #aadbf1;
-  color: darkblue;
-  text-align: center;
-  text-decoration: none;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  color: "#33ff66";
 }
